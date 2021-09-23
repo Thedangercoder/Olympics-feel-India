@@ -1,0 +1,27 @@
+body {
+  background-color: #79B4B7;
+  color: #F8F0DF;
+  text-align: center;
+}
+
+p, button {
+  font-family: 'Playball', cursive;
+}
+
+h1 {
+  padding-bottom: 25px;
+  font-family: 'Fredoka One', cursive;
+}
+
+img {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.all {
+  font-size: 3rem;
+  padding-top: 100px;
+}
+
+.btn {
+  font-size: 2.5rem;
+}
